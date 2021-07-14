@@ -75,6 +75,7 @@ body {
   grid-row-gap: 30px;
   grid-column-gap: 30px;
   margin-top: 85px;
+  margin-left: 15px;
   padding: 70px 210px 28px 180px;
 }
 /* player blog */
@@ -184,6 +185,7 @@ footer {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
 /* tablet devices */
 @media only screen and (min-width: 688px) and (max-width: 992px) {
   .container {
